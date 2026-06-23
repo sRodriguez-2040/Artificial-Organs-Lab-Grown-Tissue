@@ -1,0 +1,27 @@
+body {
+  background-image: url("https://wallpaperaccess.com/full/42614.jpg");
+  background-color: #cccccc;
+}
+
+#splash_title {
+	width: 100%;
+  font-size: 100px;
+  color: rgba(66, 78, 72, 0.752);
+  opacity: 0.85;
+  text-shadow: 4px 4px 4px rgba(255, 255, 255);
+  text-align: center;
+}
+
+.menu_button {
+	background-color: rgba(132, 208, 132, 0.67);
+    font-size: 28px;
+    color: white;
+    cursor: pointer;
+    text-align: center;
+    user-select: none;
+}
+
+.background_button {
+    border-radius: 12px;
+    padding: 16px 20px;
+}
